@@ -6,17 +6,11 @@
 
 
 
-
-
-
-.titulo{
+.display{
     color:darkmagenta;
+    font-style: italic;
     font-size:x-large;
     font-weight: bolder;
-    text-align: center;
-}
+    text-align: center;}
 
-.fondo{
-    background-color: #faf0e6;
-}
-
+    .card-text{color:darkmagenta;}
